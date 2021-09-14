@@ -1,0 +1,10 @@
+p{
+    color: green;
+}
+
+body{
+    background-image: url("/Img/images.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
